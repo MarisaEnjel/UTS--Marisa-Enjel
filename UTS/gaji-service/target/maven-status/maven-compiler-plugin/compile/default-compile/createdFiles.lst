@@ -1,0 +1,7 @@
+com\marisaenjel\gaji\service\vo\ResponseTemplateVO.class
+com\marisaenjel\gaji\service\Service\GajiService.class
+com\marisaenjel\gaji\service\GajiServiceApplication.class
+com\marisaenjel\gaji\service\Controller\GajiController.class
+com\marisaenjel\gaji\service\Entity\Gaji.class
+com\marisaenjel\gaji\service\Repository\GajiRepository.class
+com\marisaenjel\gaji\service\vo\Pegawai.class
